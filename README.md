@@ -1,4 +1,4 @@
-# Project Title
+# CS 445 - Day to Night image
 
 CS 445 - Day to Night image conversion codebase by Jimmy Berg, Uchechukwu Uche-Ike, and Milosz Dabrowski
 
